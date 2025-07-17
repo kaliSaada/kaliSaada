@@ -11,11 +11,6 @@ Sou apaixonado por tecnologia desde os 14 anos, quando iniciei minha carreira co
 
 ---
 
-## Stack Overflow
-[![k4l1's StackOverflow](https://pt.stackoverflow.com/users/flair/112600.png?theme=dark)](https://pt.stackoverflow.com/users/112600/k4l1)
-
----
-
 ## Estatísticas & Troféus
 
 <div align="center">
