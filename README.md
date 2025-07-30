@@ -9,19 +9,7 @@
 ## Sobre mim
 Sou apaixonado por tecnologia desde os 14 anos, quando iniciei minha carreira como programador.
 
----
-
-## Estatísticas & Troféus
-
-<div align="center">
-
-![Khalil's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaliSaada&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaliSaada&layout=compact&theme=dracula)
-
 ![Trophy](https://github-profile-trophy.vercel.app/?username=kaliSaada&theme=dracula&column=6&margin-w=15&margin-h=15)
-
-</div>
 
 ---
 
